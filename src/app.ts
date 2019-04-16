@@ -1,1 +1,3 @@
-console.log("Hello! Node.js × TypeScript");
+let message : String = '';
+message = "TypeScript World"
+console.log("Hello!" + message);

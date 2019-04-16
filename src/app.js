@@ -1,2 +1,4 @@
-console.log("Hello! Node.js × TypeScript");
+let message = '';
+message = "TypeScript World";
+console.log("Hello!" + message);
 //# sourceMappingURL=app.js.map
